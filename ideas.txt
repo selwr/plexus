@@ -1,0 +1,7 @@
+## Ideas
+
+* Sudoku solver, plain and simple
+* Outputs the unique solution, or if indeterminate, then up to a certain number of solutions, LaTeX formatted as a grid, with different colours for pre-entered values
+* Can take in multiple inputs (could be in text file as a CSV, or as an input line in the terminal, where a grid is drawn and updated iteratively as more numbers are entered
+* Include a GUI, and extensive class usage
+* Try to include n x n sudoku grids too.
